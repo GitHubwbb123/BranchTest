@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(MainActivity.this,"合并后悔怎样", Toast.LENGTH_SHORT).show();
         Toast.makeText(MainActivity.this,"我是主分之",Toast.LENGTH_SHORT).show();
         Toast.makeText(MainActivity.this,"到底咋呢高",Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this,"出问题了就回到分之下，修改代码，然后merge到主分支",Toast.LENGTH_SHORT).show();
+
     }
 }
