@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(MainActivity.this,"我是version1.0分之", Toast.LENGTH_SHORT).show();
         Toast.makeText(MainActivity.this,"合并后悔怎样", Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this,"我是主分之",Toast.LENGTH_SHORT).show();
     }
 }
